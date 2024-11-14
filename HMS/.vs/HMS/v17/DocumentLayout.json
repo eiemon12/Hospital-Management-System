@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hospital-Management-System\\HMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1436D89B-7077-4374-BE45-496F436F2B1C}|HMS\\HMS.csproj|d:\\hospital-management-system\\hms\\hms\\ef\\tablemodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1436D89B-7077-4374-BE45-496F436F2B1C}|HMS\\HMS.csproj|solutionrelative:hms\\ef\\tablemodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 396,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Hospital-Management-System\\HMS\\HMS\\EF\\TableModels\\User.cs",
+              "RelativeDocumentMoniker": "HMS\\EF\\TableModels\\User.cs",
+              "ToolTip": "D:\\Hospital-Management-System\\HMS\\HMS\\EF\\TableModels\\User.cs",
+              "RelativeToolTip": "HMS\\EF\\TableModels\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:57:29.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 117,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
